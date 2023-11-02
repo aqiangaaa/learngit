@@ -3,4 +3,7 @@ git is free software gpl
 git has a mutable index called stage
 git tracks changes
 git tracks changes of files
-creat a new baranch $ simple
+
+creat a new baranch  simple and quick
+
+
